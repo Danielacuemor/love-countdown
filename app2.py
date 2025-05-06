@@ -18,7 +18,7 @@ minutes, seconds = divmod(remainder, 60)
 
 # --- NOTAS DE AMOR ---
 love_notes = [
-    "You’ve been on my mind all day — I can’t wait to hold you again 💛",
+    "You’ve been on my mind all day — I can’t wait to hold you 💛",
     "You make me feel safe, sexy, and silly — all at once 🥰",
     "I’ve never smiled this much just from someone’s messages 😘",
     "You are literally the highlight of my life 💫",
@@ -35,7 +35,7 @@ bedtime_quotes = [
 
 # --- INTERFAZ DE USUARIO ---
 st.title("💛 Our Love Countdown 💛")
-st.subheader("Until I'm in your arms again...")
+st.subheader("Until I'm in your arms...")
 
 st.markdown(f"""
 ### 🗓️ {days} days  
